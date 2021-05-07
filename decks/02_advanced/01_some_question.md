@@ -1,21 +1,18 @@
-###TITLE###
+==META==
+title: Some advanced question
+tags:
+  - advanced
+  - expert
+  - programming
 
-Advanced question
+==QUESTION==
 
-###DESCRIPTION###
+Some advanced question
 
-This is an advanced question
+==ANSWER==
 
-###QUESTION###
+Some advanced answer
 
-How do you work with advanced code?
+==INFO==
 
-###ANSWER###
-
-```
-some advanced code
-```
-
-###INFO###
-
-Understanding advanced questions is usually the result of long practice.
+Advanced stuff is usually very advanced

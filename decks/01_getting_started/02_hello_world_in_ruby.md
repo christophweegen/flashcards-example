@@ -1,22 +1,22 @@
-###TITLE###
+==META==
+title: Hello World in Ruby
+tags:
+  - beginner
+  - ruby
+  - programming
+  - hello world
 
-Hello World in Ruby
-
-###DESCRIPTION###
-
-Writing a hello world program in Ruby
-
-###QUESTION###
+==QUESTION==
 
 How can you write a `Hello world` program in `Ruby?`
 
-###ANSWER###
+==ANSWER==
 
 ```ruby
 puts "Hello World"
 ```
 
-###INFO###
+==INFO==
 
 A `Hello world` is a traditionally the first program beginner write in a new programming language.
 

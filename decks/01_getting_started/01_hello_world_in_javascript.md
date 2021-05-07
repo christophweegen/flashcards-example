@@ -1,22 +1,22 @@
-###TITLE###
+==META==
+title: Hello World in Javascript
+tags:
+  - beginner
+  - javascript
+  - programming
+  - hello world
 
-Hello World in Javascript
-
-###DESCRIPTION###
-
-Writing a hello world program in Javascript
-
-###QUESTION###
+==QUESTION==
 
 How can you write a `Hello world` program in `Javascript?`
 
-###ANSWER###
+==ANSWER==
 
 ```javascript
-console.log('Hello World')
+console.log("Hello World");
 ```
 
-###INFO###
+==INFO==
 
 A `Hello world` is a traditionally the first program beginner write in a new programming language.
 
