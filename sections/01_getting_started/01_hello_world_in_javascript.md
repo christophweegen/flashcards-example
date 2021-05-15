@@ -1,11 +1,6 @@
 ==META==
 
 title: Hello World in Javascript
-tags:
-  - beginner
-  - javascript
-  - programming
-  - hello world
 
 ==QUESTION==
 

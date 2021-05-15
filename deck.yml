@@ -1,2 +1,7 @@
 name: My cool deck
 description: This is a deck about cool stuff
+tags:
+  - javascript
+  - beginner
+  - first steps
+  - programming

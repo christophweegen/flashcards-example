@@ -1,11 +1,6 @@
 ==META==
 
 title: Hello World in Ruby
-tags:
-  - beginner
-  - ruby
-  - programming
-  - hello world
 
 ==QUESTION==
 
