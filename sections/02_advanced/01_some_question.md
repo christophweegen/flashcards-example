@@ -1,7 +1,3 @@
-==META==
-
-title: Some advanced question
-
 ==QUESTION==
 
 Some advanced question

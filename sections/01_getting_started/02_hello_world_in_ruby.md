@@ -1,7 +1,3 @@
-==META==
-
-title: Hello World in Ruby
-
 ==QUESTION==
 
 How can you write a `Hello world` program in `Ruby?`

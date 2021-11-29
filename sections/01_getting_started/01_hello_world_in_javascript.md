@@ -1,7 +1,3 @@
-==META==
-
-title: Hello World in Javascript
-
 ==QUESTION==
 
 How can you write a `Hello world` program in `Javascript?`
