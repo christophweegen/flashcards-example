@@ -1,6 +1,6 @@
 ==QUESTION==
 
-How can you write a `Hello world` program in `Javascript?`
+A
 
 ==ANSWER==
 
